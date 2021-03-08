@@ -143,6 +143,7 @@ def plot_rocs(test_pred, y_test, columns, rows):
 def training(model, X, y, list_preprocessing):
     result = []
     for p in list_preprocessing:
+        p.fit(X)
         X_ = p.transform(X)
         m = copy.deepcopy(model)
         
@@ -157,6 +158,7 @@ def training(model, X, y, list_preprocessing):
 def super_training(X, y, list_preprocessing, searchCV):
     result = []
     for p in list_preprocessing:
+        p.fit(X)
         X_ = p.transform(X)
         scv = searchCV.fit(X_, y)
         result.append((scv.best_estimator_, p))
