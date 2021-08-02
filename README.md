@@ -3,4 +3,4 @@ En este repositorio estan todos los archivos referentes al TP2 2c2020 de la mate
 
 ## Description
 
-This was a project using different machine learning models's.
+This was a project where different machine learning models were used to predict a boolean variable.
