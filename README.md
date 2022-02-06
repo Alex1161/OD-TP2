@@ -4,7 +4,7 @@ This repository is for the TP2 project from the subject Organizacion de datos 75
 ## Description
 
 This was a project where different machine learning models were used to predict a boolean variable. 
-This dataset is about who will come back to watch a movie.
+This dataset is about who would go to watch a movie's sequel.
 
 ## Links
 
