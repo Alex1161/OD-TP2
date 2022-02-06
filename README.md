@@ -3,4 +3,4 @@ En este repositorio estan todos los archivos referentes al TP2 2c2020 de la mate
 
 ## Description
 
-This was a project where different machine learning models were used to predict a boolean variable.
+This was a project where different machine learning models were used to predict a boolean variable using a dataset about who will come back to watch a movie (https://drive.google.com/uc?export=download&id=1i-KJ2lSvM7OQH0Yd59bX01VoZcq8Sglq).
