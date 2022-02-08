@@ -8,7 +8,7 @@ This dataset is about who would go to watch a movie's sequel.
 
 ## Links
 
-| Name | Url |
+| Data | Url |
 | ------------- | ------------- |
 | Dataset for training | https://drive.google.com/uc?export=download&id=1i-KJ2lSvM7OQH0Yd59bX01VoZcq8Sglq  |
 | Predictions for training  | https://drive.google.com/uc?export=download&id=1km-AEIMnWVGqMtK-W28n59hqS5Kufhd0  |
